@@ -1,0 +1,150 @@
+html {
+	background-color:#171613;
+	scrollbar-base-color: #baac95;
+	scrollbar-color: #baac95 #171613;
+	}
+	
+	body {
+	max-width: 800px;
+	margin:0 auto;
+	}
+	
+	img, a:link, a:visited, a:hover, a:active, h1, h2, h3 {
+	color: #fef4d5;
+	font-family: 'Silom', sans-serif;
+	}
+	
+	a, p, ul, li, td, tr {
+	color: #baac95;
+	font-family: 'Silom', sans-serif;
+	}
+	
+	html {
+	scrollbar-base-color: #fef4d5;
+	scrollbar-color: #fef4d5 #171613;
+	}
+	
+	#main,
+	#nav {
+	margin: 0 auto;
+	max-width: 50%;
+	}
+	
+	#nav {
+	border-bottom: 1px solid #fef4d5;
+	background: #171613;
+	}
+	
+	hr {
+	border: none;
+	background: #fef4d5;
+	color: #fef4d5;
+	height: 1px;
+	}
+	
+	#linkgrid {
+	border: 0 #fef4d5;
+	}
+	
+	#linkgrid td {
+	border: 4px ridge #fef4d5;
+	width: 50%;
+	vertical-align: top;
+	}
+	
+	.topnav {
+	position: relative;
+	overflow: hidden;
+	
+	}
+	
+	.topnav a {
+	float: left;
+	color: #fef4d5;
+	text-align: center;
+	padding: 0px 10px;
+	text-decoration: none;
+	font-size: 14px;
+	}
+	
+	.topnav a:hover {
+	background-color: #fef4d5;
+	color: black;
+	}
+	
+	.topnav a.active {
+	background-color: #fef4d5;
+	color: white;
+	}
+	
+	.topnav-centered a {
+	float: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	}
+	
+	.topnav-right {
+	float: right;
+	}
+	
+	/* Responsive navigation menu (for mobile devices) */
+	@media screen and (max-width: 600px) {
+	.topnav a, .topnav-right {
+	float: none;
+	display: block;
+	}
+	
+	.topnav-centered a {
+	position: relative;
+	top: 0;
+	left: 0;
+	transform: none;
+	}
+	}
+	
+	.button {
+		background-color: #171613; /* Green */
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	  }
+	
+	.button4 {
+		color: #fef4d5;
+		border: 2px solid #baac95;
+	}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}

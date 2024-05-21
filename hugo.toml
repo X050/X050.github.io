@@ -1,0 +1,4 @@
+baseURL = 'https://nushiredev.github.io'
+languageCode = 'en-us'
+title = 'Nushire'
+theme = 'lugo'
