@@ -131,12 +131,10 @@ footer {
 .taglist {
 	text-align: center ;
 	clear: both ;
+	color: #fef4d5;
+	font-family: 'Silom', sans-serif;
 }
 
-/* For NEXTPREV.HTML */
-#nextprev {
-	/* The container for both the previous and next articles. */
-}
 #prevart {
 	float: left ;
 	text-align: left ;
