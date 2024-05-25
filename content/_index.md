@@ -11,5 +11,7 @@ Projects:
 
 [Nushire](/tags/nushire/): My Voxel Engine. Built with Go and OpenGL.
 
+![Nushire3](/images/nushire3-thumbnail.png)
+
 Blog:
 ---------
