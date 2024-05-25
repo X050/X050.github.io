@@ -1,7 +1,7 @@
 html {
 	background-color:#171613;
-	scrollbar-base-color: #fef4d5;
-	scrollbar-color: #fef4d5 #171613;
+	scrollbar-base-color: #ffffff;
+	scrollbar-color: #ffffff #171613;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 img, a:link, a:visited, a:hover, a:active, h1, h2, h3, a, p, ul, li, td, tr {
-	color: #fef4d5;
+	color: #ffffff;
 	font-family: 'Silom', sans-serif;
 }
 
@@ -21,23 +21,23 @@ img, a:link, a:visited, a:hover, a:active, h1, h2, h3, a, p, ul, li, td, tr {
 }
 
 #nav {
-	border-bottom: 1px solid #fef4d5;
+	border-bottom: 1px solid #ffffff;
 	background: #171613;
 }
 
 hr {
 	border: none;
-	background: #fef4d5;
-	color: #fef4d5;
+	background: #ffffff;
+	color: #ffffff;
 	height: 1px;
 }
 
 #linkgrid {
-	border: 0 #fef4d5;
+	border: 0 #ffffff;
 }
 
 #linkgrid td {
-	border: 4px ridge #fef4d5;
+	border: 4px ridge #ffffff;
 	width: 50%;
 	vertical-align: top;
 }
@@ -49,7 +49,7 @@ hr {
 
 .topnav a, .topnav-centered a {
 	float: left;
-	color: #fef4d5;
+	color: #ffffff;
 	text-align: center;
 	padding: 0px 10px;
 	text-decoration: none;
@@ -57,12 +57,12 @@ hr {
 }
 
 .topnav a:hover {
-	background-color: #fef4d5;
+	background-color: #ffffff;
 	color: black;
 }
 
 .topnav a.active {
-	background-color: #fef4d5;
+	background-color: #ffffff;
 	color: white;
 }
 
@@ -106,7 +106,7 @@ hr {
 }
 
 .button4 {
-	color: #fef4d5;
+	color: #ffffff;
 	border: 2px solid #baac95;
 }
 
@@ -118,7 +118,7 @@ footer {
 .taglist {
 	text-align: center;
 	clear: both;
-	color: #fef4d5;
+	color: #ffffff;
 	font-family: 'Silom', sans-serif;
 }
 
