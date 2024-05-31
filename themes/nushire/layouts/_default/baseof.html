@@ -26,15 +26,19 @@
             <a href="https://github.com/nushiredev">GitHub</a>
         </div>
     </div>
-    <hr>
+	<hr>
     <br>
+	<br>
+    <hr>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
 <article>
 {{ block "main" . }}
+<hr>
 {{ .Content }}
 {{ end }}
+<hr>
 {{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>

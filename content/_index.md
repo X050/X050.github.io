@@ -7,11 +7,11 @@ I'm currently developing a Voxel Engine called "Nushire" you can read the devlog
 Projects:
 ---------
 
-[MinecraftHistory.com](https://minecrafthistory.com): The place where I document the early days of Minecraft.
-
 [Nushire](/tags/nushire/): My Voxel Engine. Built with Go and OpenGL.
 
-![Nushire3](/images/nushire3-thumbnail.png)
+[MinecraftHistory.com](https://minecrafthistory.com): The place where I document the early days of Minecraft.
+
+[MacFetch](https://github.com/nushiredev/macfetch): Neofetch clone for macOS, written in Swift.
 
 Blog:
 ---------
