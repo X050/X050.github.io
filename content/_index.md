@@ -11,7 +11,7 @@ Projects:
 
 [MinecraftHistory.com](https://minecrafthistory.com): The place where I document the early days of Minecraft.
 
-[MacFetch](https://github.com/nushiredev/macfetch): Neofetch clone for macOS, written in Swift.
+[MacFetch](https://github.com/paretoprinciple/macfetch): Neofetch clone for macOS, written in Swift.
 
 Blog:
 ---------
