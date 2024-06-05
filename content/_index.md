@@ -13,5 +13,7 @@ Projects:
 
 [MacFetch](https://github.com/appleware/macfetch): Neofetch clone for macOS, written in Swift.
 
+[emacsOS](https://github.com/paretoprinciple/emacsOS): Easily install Emacs as your OS.
+
 Blog:
 ---------
