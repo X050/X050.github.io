@@ -1,7 +1,7 @@
 Welcome!
 ========
 
-Hi! You can read the devlog [here](/tags/devlog/).
+You can read the devlog [here](/tags/devlog/).
 
 Projects:
 ---------
