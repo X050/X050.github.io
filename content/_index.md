@@ -11,8 +11,6 @@ Projects:
 
 [emacsOS](https://github.com/paretoprinciple/emacsOS): A script to quickly install Emacs as your OS.
 
-[MinecraftHistory.com](https://minecrafthistory.com): The place where I document the early days of Minecraft.
-
 [MacFetch](https://github.com/appleware/macfetch): Native Neofetch clone for macOS.
 
 Blog:
