@@ -11,7 +11,7 @@ Projects:
 
 [Nushire](/tags/nushire/): My Voxel Engine. Built with Go and OpenGL.
 
-[emacsOS](https://github.com/paretoprinciple/emacsOS): A script to quickly install Emacs as your OS.
+[emacsOS](https://github.com/appleware/emacsOS): A script to quickly install Emacs as your OS.
 
 [MacFetch](https://github.com/appleware/macfetch): Native Neofetch clone for macOS.
 
