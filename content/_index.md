@@ -6,7 +6,7 @@ You can read the Nushire devlog [here](/tags/devlog/).
 ₪ Projects:
 ---------
 
-❀ [hx:](https://github.com/neetware/hx) A small package manager I'm working on.
+❀ [hx:](https://github.com/neetware/hx) A package manager for an easy installation of scripts.
 
 ❀ [coreutils:](https://github.com/neetware/coreutils) My attempt at rewriting unix coreutils.
 
