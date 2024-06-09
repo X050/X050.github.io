@@ -1,18 +1,20 @@
-Welcome!
+₪ Welcome!
 ========
 
-You can read the devlog [here](/tags/devlog/).
+You can read the Nushire devlog [here](/tags/devlog/).
 
-Projects:
+₪ Projects:
 ---------
 
-[coreutils](https://github.com/appleware/coreutils): My attempt at rewriting unix coreutils.
+❀ [hx:](https://github.com/neetware/hx) A small package manager I'm working on.
 
-[nushire](/tags/nushire/): My Voxel Engine. Uses OpenGL.
+❀ [coreutils:](https://github.com/neetware/coreutils) My attempt at rewriting unix coreutils.
 
-[emacsOS](https://github.com/appleware/emacsOS): A script to quickly install Emacs as your OS.
+❀ [nushire:](/tags/nushire/) My Voxel Engine. Uses OpenGL.
 
-[macfetch](https://github.com/appleware/macfetch): Native Neofetch clone for macOS.
+❀ [emacsOS:](https://github.com/neetware/emacsos) A script to quickly install Emacs as your OS.
 
-Blog:
+❀ [macfetch:](https://github.com/neetware/macfetch) Native Neofetch clone for macOS.
+
+₪ Blog:
 ---------
