@@ -1,10 +1,10 @@
 ₪ Welcome!
-========
+===
 
 You can read the Nushire devlog [here](/tags/devlog/).
 
 ₪ Projects:
----------
+---
 
 ❀ [hx:](https://github.com/neetware/hx) A package manager for an easy installation of scripts.
 
@@ -17,4 +17,4 @@ You can read the Nushire devlog [here](/tags/devlog/).
 ❀ [macfetch:](https://github.com/neetware/macfetch) Native Neofetch clone for macOS.
 
 ₪ Blog:
----------
+---
