@@ -7,4 +7,4 @@ tags = ['nushire', 'teaser', 'trailer']
 
 ![Nushire](/images/nushire-thumbnail.png)
 
-❀ [Wishlist on Steam](https://store.steampowered.com/app/70/HalfLife/) (Eventually)
+❀ [Wishlist on Steam](https://store.steampowered.com/app/1337/Nushire/) (Eventually)
