@@ -9,7 +9,7 @@ body {
 }
 
 a:link, a:visited, a:active{
-	color: pink;
+	color: #FAE57E;
 	font-family: 'Silom', sans-serif;
 }
 a:hover{
@@ -25,11 +25,6 @@ h1, h2, h3, a, p, ul, li, td, tr {
 #nav {
 	margin: 0 auto;
 	max-width: 50%;
-}
-
-#nav {
-	border-bottom: 1px solid #ffffff;
-	background: #fff;
 }
 
 hr {
@@ -52,7 +47,7 @@ hr {
 .topnav {
 	position: relative;
 	overflow: hidden;
-	background-color: pink;
+	background-color: #FAE57E;
 	padding: 1%;
 }
 
@@ -101,7 +96,7 @@ hr {
 
 .button {
 	border: none;
-	color: white;
+	color: #FAE57E;
 	padding: 15px 32px;
 	text-align: center;
 	text-decoration: none;
