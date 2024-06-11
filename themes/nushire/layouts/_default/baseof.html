@@ -4,7 +4,8 @@
 	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-	<link rel="shortcut icon" href="/favicon.png">
+	<link rel="icon" type="image/svg+xml" href="../../static/rss.svg">
+	<link rel="icon" type="image/png" href="images/favicon.png">
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
