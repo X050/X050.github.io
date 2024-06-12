@@ -1,1 +1,1 @@
-# Blog at nushire.github.io
+# My blog built with Hugo and deployed using GitHub Actions!
