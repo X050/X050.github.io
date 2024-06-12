@@ -1,9 +1,9 @@
-₪ Welcome!
+Welcome!
 ===
 
 You can read the devlog [here](/tags/dev/).
 
-₪ Projects:
+Projects:
 ---
 
 ❀ [hx:](https://github.com/neetware/hx) A package manager for an easy installation of scripts.
@@ -18,5 +18,5 @@ You can read the devlog [here](/tags/dev/).
 
 ❀ [emacsOS:](https://github.com/neetware/emacsos) A script to quickly install Emacs as your OS.
 
-₪ Blog:
+Blog:
 ---
