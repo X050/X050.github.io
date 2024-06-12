@@ -1,7 +1,7 @@
 ₪ Welcome!
 ===
 
-You can read the Nushire devlog [here](/tags/devlog/).
+You can read the devlog [here](/tags/dev/).
 
 ₪ Projects:
 ---
@@ -14,7 +14,7 @@ You can read the Nushire devlog [here](/tags/devlog/).
 
 ❀ [macfetch:](https://github.com/neetware/macfetch) Native Neofetch clone for macOS.
 
-❀ [nushire:](/tags/nushire/) My Voxel Engine. Uses OpenGL.
+❀ [voxel:](/tags/voxel-engine/) My Voxel Engine. Uses OpenGL.
 
 ❀ [emacsOS:](https://github.com/neetware/emacsos) A script to quickly install Emacs as your OS.
 
