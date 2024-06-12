@@ -14,8 +14,6 @@ Projects:
 
 ❀ [macfetch:](https://github.com/neetware/macfetch) Native Neofetch clone for macOS.
 
-❀ [voxel:](/tags/voxel-engine/) My Voxel Engine. Uses OpenGL.
-
 ❀ [emacsOS:](https://github.com/neetware/emacsos) A script to quickly install Emacs as your OS.
 
 Blog:
