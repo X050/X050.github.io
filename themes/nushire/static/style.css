@@ -9,7 +9,7 @@ body {
 }
 
 a:link, a:visited, a:active{
-	color: #FAE57E;
+	color: pink;
 	font-family: 'Silom', sans-serif;
 }
 a:hover{
@@ -47,7 +47,7 @@ hr {
 .topnav {
 	position: relative;
 	overflow: hidden;
-	background-color: #FAE57E;
+	background-color: pink;
 	padding: 1%;
 }
 
