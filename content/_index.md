@@ -6,7 +6,7 @@ You can read the devlog [here](/tags/dev/).
 Projects:
 ---
 
-❀ [spm:](https://github.com/neetware/spm) Package manager for UNIX-like Operating Systems. 
+❀ [spm:](https://github.com/neetware/spm) Script ackage manager for UNIX-like Operating Systems. 
 
 ❀ [coreutils:](https://github.com/neetware/coreutils) POSIX compliant coreutils for UNIX-like Operating Systems. 
 
