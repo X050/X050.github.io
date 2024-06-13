@@ -6,7 +6,7 @@ You can read the devlog [here](/tags/dev/).
 Projects:
 ---
 
-❀ [hx:](https://github.com/neetware/hx) A package manager for an easy installation of scripts.
+❀ [spm:](https://github.com/neetware/spm) A package manager for an easy installation of scripts.
 
 ❀ [coreutils:](https://github.com/neetware/coreutils) My attempt at rewriting unix coreutils.
 
