@@ -6,7 +6,7 @@ You can read the devlog [here](/tags/dev/).
 Projects:
 ---
 
-❀ [yukonia:](https://github.com/neetware/yukonia) A Minimalistic static video site generator.
+❀ [yukonia:](https://github.com/neetware/yukonia) A minimalistic static video site generator.
 
 ❀ [spm:](https://github.com/neetware/spm) A script package manager for UNIX-like Operating Systems. 
 
