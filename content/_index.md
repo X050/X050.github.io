@@ -1,6 +1,10 @@
 # Welcome!
 
-You can read the devlog [here](/tags/dev/).
+![pfp](/images/pfp.png)
+
+# Links:
+
+❀ [GitHub:](https://github.com/xcomfy) My GitHub profile.
 
 # Projects:
 
