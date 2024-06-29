@@ -97,3 +97,6 @@ footer {
 	text-decoration: underline;
 }
 
+image {
+	outline: #ffffff solid 2px;
+}
