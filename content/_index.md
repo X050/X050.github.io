@@ -1,10 +1,8 @@
-Welcome!
-===
+# Welcome!
 
 You can read the devlog [here](/tags/dev/).
 
-Projects:
----
+# Projects:
 
 ❀ [yukonia:](https://github.com/xcomfy/yukonia) A minimalistic static video site generator.
 
@@ -12,5 +10,4 @@ Projects:
 
 ❀ [coreutils:](https://github.com/xcomfy/coreutils) POSIX compliant coreutils for UNIX-like Operating Systems. 
 
-Blog:
----
+# Blog:
