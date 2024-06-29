@@ -23,6 +23,7 @@
         </div>
     </div>
 	<hr>
+<br>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
@@ -35,6 +36,7 @@
 {{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>
+<br>
 <hr>
 <div class="topnav" style="color: white; text-decoration: none;">
 	</div>
