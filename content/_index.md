@@ -2,7 +2,7 @@
 
 ![pfp](/images/pfp.png)
 
-# Links:
+# Contact:
 
 ❀ [GitHub:](https://github.com/xcomfy) My GitHub profile.
 
