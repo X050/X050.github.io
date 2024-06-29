@@ -1,6 +1,12 @@
+:root {
+	--theme-color-text: #ffffff;
+	--theme-color-background: #222222;
+	--theme-color-link: pink;
+}
+
 html {
-	background-color:#222222;
-	scrollbar-color: #ffffff #222222;
+	background-color: var(--theme-color-background);
+	scrollbar-color: var(--theme-color-text) var(--theme-color-background);
 }
 
 body {
@@ -10,26 +16,26 @@ body {
 }
 
 a:link, a:active {
-	color: pink;
+	color: var(--theme-color-link);
 	font-family: 'ariel', sans-serif;
 	font-size: 1.1em;
 }
 
 a:visited{
-	color: white;
+	color: var(--theme-color-text);
 	font-family: 'ariel', sans-serif;
 	text-decoration: none;
 	font-size: 1.1em;
 }
 
 a:hover{
-	color: pink;
+	color: var(--theme-color-link);
 	font-family: 'ariel', sans-serif;
 	text-decoration: none;
 	font-size: 1.1em;
 }
 h1, h2, h3, a, p, ul, li, td, tr {
-	color: #ffffff;
+	color: var(--theme-color-text);
 	font-family: 'ariel', sans-serif;
 	font-size: 1.1em;
 }
@@ -42,17 +48,17 @@ h1, h2, h3, a, p, ul, li, td, tr {
 
 hr {
 	border: none;
-	background: #ffffff;
-	color: #ffffff;
+	background: var(--theme-color-text);
+	color: var(--theme-color-text);
 	height: 1px;
 }
 
 #linkgrid {
-	border: 0 #ffffff;
+	border: 0 var(--theme-color-text);
 }
 
 #linkgrid td {
-	border: 4px ridge #ffffff;
+	border: 4px ridge var(--theme-color-text);
 	width: 50%;
 	vertical-align: top;
 }
@@ -60,8 +66,8 @@ hr {
 .topnav {
 	position: relative;
 	overflow: hidden;
-	background-color: pink;
-	color: white;
+	background-color: var(--theme-color-link);
+	color: var(--theme-color-text);
 	padding: 1%;
 	font-size: 1.1em;
 }
@@ -73,7 +79,7 @@ footer {
 .taglist {
 	text-align: center;
 	clear: both;
-	color: #ffffff;
+	color: var(--theme-color-text);
 	font-family: 'ariel', sans-serif;
 	font-size: 1.1em;
 }
@@ -81,13 +87,13 @@ footer {
 #prevart {
 	float: left;
 	text-align: left;
-	color: white;
+	color: var(--theme-color-text);
 	text-decoration: underline;
 }
 #nextart {
 	float: right;
 	text-align: right;
-	color: white;
+	color: var(--theme-color-text);
 	text-decoration: underline;
 }
 
