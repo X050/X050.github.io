@@ -1,7 +1,7 @@
 :root {
 	--theme-color-text: #ffffff;
 	--theme-color-background: #222222;
-	--theme-color-link: pink;
+	--theme-color-link: #FAE57E;
 }
 
 html {
@@ -12,32 +12,32 @@ html {
 body {
 	max-width: 960px;
 	margin:0 auto;
-	font-size: 1.1em;
+	font-size: 1.1rem;
 }
 
 a:link, a:active {
 	color: var(--theme-color-link);
-	font-family: 'ariel', sans-serif;
-	font-size: 1.1em;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 1.1rem;
 }
 
 a:visited{
 	color: var(--theme-color-text);
-	font-family: 'ariel', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	text-decoration: none;
-	font-size: 1.1em;
+	font-size: 1.1rem;
 }
 
 a:hover{
 	color: var(--theme-color-link);
-	font-family: 'ariel', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	text-decoration: none;
-	font-size: 1.1em;
+	font-size: 1.1rem;
 }
 h1, h2, h3, a, p, ul, li, td, tr {
 	color: var(--theme-color-text);
-	font-family: 'ariel', sans-serif;
-	font-size: 1.1em;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 1.1rem;
 }
 
 #main,
@@ -69,7 +69,7 @@ hr {
 	background-color: var(--theme-color-link);
 	color: var(--theme-color-text);
 	padding: 1%;
-	font-size: 1.1em;
+	font-size: 0.9em;
 }
 
 footer {
@@ -80,8 +80,8 @@ footer {
 	text-align: center;
 	clear: both;
 	color: var(--theme-color-text);
-	font-family: 'ariel', sans-serif;
-	font-size: 1.1em;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 0.9em;
 }
 
 #prevart {
